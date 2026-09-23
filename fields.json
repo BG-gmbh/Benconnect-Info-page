@@ -1,0 +1,200 @@
+[
+  {
+    "key": "text_0",
+    "default": "Zusammen",
+    "label": "Zusammen",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_1",
+    "default": "lernen.",
+    "label": "lernen.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_2",
+    "default": "Mehr erreichen.",
+    "label": "Mehr erreichen.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_3",
+    "default": "Lernen verbindet. Benconnect bringt Lerngruppen, deine Fächer und den gemeinsamen Austausch an einen Ort.",
+    "label": "Lernen verbindet. Benconnect bringt Lerngruppen, deine Fächer und",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_4",
+    "default": "Für Lernende. Für Austausch. Für dein nächstes Aha.",
+    "label": "Für Lernende. Für Austausch. Für dein nächstes Aha.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_5",
+    "default": "Ein Ort.",
+    "label": "Ein Ort.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_6",
+    "default": "Viele Aha-Momente.",
+    "label": "Viele Aha-Momente.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_7",
+    "default": "Vom eigenen Fach zum gemeinsamen Verständnis.",
+    "label": "Vom eigenen Fach zum gemeinsamen Verständnis.",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_8",
+    "default": "Deine Fächer",
+    "label": "Deine Fächer",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_9",
+    "default": "Deine Lerngruppe",
+    "label": "Deine Lerngruppe",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_10",
+    "default": "Euer Austausch",
+    "label": "Euer Austausch",
+    "group": "01 · Einstieg"
+  },
+  {
+    "key": "text_11",
+    "default": "Lernen ist besser,",
+    "label": "Lernen ist besser,",
+    "group": "02 · Projekt"
+  },
+  {
+    "key": "text_12",
+    "default": "wenn man es teilt.",
+    "label": "wenn man es teilt.",
+    "group": "02 · Projekt"
+  },
+  {
+    "key": "text_13",
+    "default": "Benconnect ist ein Lerngruppen-Finder mit einer gemeinsamen Anlaufstelle für den Schulalltag. Die Plattform verbindet eine persönliche Fächerübersicht mit Lerngruppen und Chat.",
+    "label": "Benconnect ist ein Lerngruppen-Finder mit einer gemeinsamen Anlau",
+    "group": "02 · Projekt"
+  },
+  {
+    "key": "text_14",
+    "default": "Der Einstieg erfolgt mit einem bestehenden Konto oder einem Einladungscode. Für die Organisation stehen außerdem Verwaltungsfunktionen für Nutzer, Einladungen und Lehrer-Kontakte bereit.",
+    "label": "Der Einstieg erfolgt mit einem bestehenden Konto oder einem Einla",
+    "group": "02 · Projekt"
+  },
+  {
+    "key": "text_15",
+    "default": "Alles für euer Miteinander.",
+    "label": "Alles für euer Miteinander.",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_16",
+    "default": "Weniger suchen.",
+    "label": "Weniger suchen.",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_17",
+    "default": "Mehr gemeinsam lernen.",
+    "label": "Mehr gemeinsam lernen.",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_18",
+    "default": "Deine Fächer im Blick",
+    "label": "Deine Fächer im Blick",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_19",
+    "default": "Die persönliche Fächerübersicht im Dashboard gibt deinem Lernen einen gemeinsamen Ausgangspunkt.",
+    "label": "Die persönliche Fächerübersicht im Dashboard gibt deinem Lernen e",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_20",
+    "default": "Zusammen in Verbindung",
+    "label": "Zusammen in Verbindung",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_21",
+    "default": "Im Lerngruppen-Chat könnt ihr Fragen besprechen, euch abstimmen und Wissen miteinander teilen.",
+    "label": "Im Lerngruppen-Chat könnt ihr Fragen besprechen, euch abstimmen u",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_22",
+    "default": "Punkte mit Möglichkeiten",
+    "label": "Punkte mit Möglichkeiten",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_23",
+    "default": "Ein eigener Punkte-Laden ergänzt die Plattform. Angebote und Lehrer-Kontakte werden zentral verwaltet.",
+    "label": "Ein eigener Punkte-Laden ergänzt die Plattform. Angebote und Lehr",
+    "group": "03 · Funktionen"
+  },
+  {
+    "key": "text_24",
+    "default": "Eine Frage?",
+    "label": "Eine Frage?",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_25",
+    "default": "Lass uns reden.",
+    "label": "Lass uns reden.",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_26",
+    "default": "Du hast eine Idee, Feedback oder eine Frage zu Benconnect? Schreib uns eine E-Mail oder tausche dich direkt im Projekt aus.",
+    "label": "Du hast eine Idee, Feedback oder eine Frage zu Benconnect? Schrei",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_27",
+    "default": "Dein direkter Kontakt für Fragen zu Benconnect.",
+    "label": "Dein direkter Kontakt für Fragen zu Benconnect.",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_28",
+    "default": "Ins Gespräch kommen",
+    "label": "Ins Gespräch kommen",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_29",
+    "default": "Fragen stellen und Ideen mit dem Projekt teilen.",
+    "label": "Fragen stellen und Ideen mit dem Projekt teilen.",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_30",
+    "default": "Etwas funktioniert nicht?",
+    "label": "Etwas funktioniert nicht?",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_31",
+    "default": "Ein Problem beschreiben oder eine Verbesserung vorschlagen.",
+    "label": "Ein Problem beschreiben oder eine Verbesserung vorschlagen.",
+    "group": "04 · Kontakt"
+  },
+  {
+    "key": "text_32",
+    "default": "Gemeinsam lernen. Weiterkommen.",
+    "label": "Gemeinsam lernen. Weiterkommen.",
+    "group": "04 · Kontakt"
+  }
+]
