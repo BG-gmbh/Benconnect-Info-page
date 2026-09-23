@@ -1,0 +1,20 @@
+services:
+  benconnect-info:
+    build: .
+    container_name: benconnect-info
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:8000"
+    env_file: .env
+    extra_hosts:
+      - "${SMTP_HOST}:${SMTP_SERVER_IP}"
+    volumes:
+      - site-data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+volumes:
+  site-data:
